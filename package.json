@@ -1,0 +1,22 @@
+{
+  "name": "guildmanager",
+  "version": "1.0.0",
+  "description": "A script to control guilds and users use bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "e"
+  },
+  "keywords": [
+    "script",
+    "nodejs"
+  ],
+  "author": "SwadowMaster",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
